@@ -34,7 +34,7 @@
 <!-- GAMIFIED ACHIEVEMENTS (SAFFRON THEMED) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhishekchaurasia847-collab&title=FF9933&icon=FF9933&text=ffffff&bg=0d1117&frame=0d1117&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=abhishekchaurasia847-collab&theme=darkhub&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 <br/>
