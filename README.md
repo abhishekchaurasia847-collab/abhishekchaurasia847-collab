@@ -4,6 +4,11 @@
 </div>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishekchaurasia847-collab&label=EXECUTIVE+VISITS&color=f43f5e&style=for-the-badge" alt="Visitor Counter" />
+</div>
+<br/>
+
+<div align="center">
   <a href="https://linkedin.com/in/abhishek"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/abhishek_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="mailto:chaurasiaabhishek847@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -19,21 +24,50 @@
 
 <br/>
 
-## 🚀 Executive Leadership & Vision
+<!-- GAMIFIED ACHIEVEMENTS -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhishekchaurasia847-collab&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br/>
+
+## 🚀 Executive Leadership & Deep Dives
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
       <h2>🛡️ Nation IT Head</h2>
       <b>Rashtriya Hindu Sangathan</b><br/><br/>
-      <i>Driving national digital strategy, securing critical IT infrastructure, and connecting millions through scalable, institutional-grade ecosystems.</i>
+      <i>Driving national digital strategy, securing critical IT infrastructure, and connecting millions.</i><br/><br/>
+      <details>
+        <summary><b>► View National Impact</b></summary>
+        <br/>
+        <ul>
+          <li><b>Digital Sovereignty:</b> Securing communications and data across 10,000+ national nodes.</li>
+          <li><b>Infrastructure Scaling:</b> Architecting rapid-deployment systems for disaster connectivity and real-time response.</li>
+          <li><b>Institutional Audits:</b> Leading "zero-trust" cyber-assessments for peak operational security.</li>
+        </ul>
+      </details>
     </td>
     <td width="50%" align="center">
       <h2>🌐 Founder & CEO</h2>
       <b>Yugantar Cybernetics Pvt. Ltd.</b><br/><br/>
-      <i>Spearheading technological innovation, modern UI/UX design, and complex dynamic solutions for the next generation of digital enterprises.</i>
+      <i>Spearheading deep-tech innovation, modern UI/UX design, and complex dynamic solutions.</i><br/><br/>
+      <details>
+        <summary><b>► View Corporate Strategy</b></summary>
+        <br/>
+        <ul>
+          <li><b>Product Engineering:</b> Directing the full SDLC for high-fidelity SaaS and hardware integration.</li>
+          <li><b>Growth & Valuation:</b> Scaling the enterprise from a conceptual framework to a profitable deep-tech leader.</li>
+          <li><b>R&D Leadership:</b> Managing next-generation deployments involving IoT, Robotics, and Advanced Distributed Systems.</li>
+        </ul>
+      </details>
     </td>
   </tr>
 </table>
+
+<br/>
 
 ## 💻 World-Class Tech Arsenal
 <div align="center">
@@ -48,11 +82,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekchaurasia847-collab&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekchaurasia847-collab&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
+<!-- AUTOMATED SNAKE ANIMATION -->
+<div align="center">
+  <h3>Contributions Grid</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekchaurasia847-collab/abhishekchaurasia847-collab/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekchaurasia847-collab/abhishekchaurasia847-collab/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishekchaurasia847-collab/abhishekchaurasia847-collab/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
----
+<br/>
 
 <div align="center">
   <i>"Transforming ideas into highly scalable, secure, and impactful digital realities."</i>
