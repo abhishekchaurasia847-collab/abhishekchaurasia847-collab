@@ -1,0 +1,68 @@
+<svg width="440" height="110" viewBox="0 0 440 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Saffron Gradient for S/SSS Ranks -->
+    <linearGradient id="saffron_grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9933;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF4500;stop-opacity:1" />
+    </linearGradient>
+    <style>
+      .title { font: bold 13px "Segoe UI", Ubuntu, Sans-Serif; fill: #c9d1d9; text-anchor: middle; }
+      .rank { font: bold 14px "Courier New", Monospace; fill: #0d1117; text-anchor: middle; }
+      .message { font: 10.5px "Segoe UI", Ubuntu, Sans-Serif; fill: #8b949e; text-anchor: middle; }
+      .points { font: 10px "Segoe UI", Ubuntu, Sans-Serif; fill: #8b949e; text-anchor: middle; }
+      .laurel { fill: #178600; opacity: 0.4; }
+      .trophy_base { fill: url(#saffron_grad); }
+      .rank_bg { fill: #f0f6fb; }
+    </style>
+  </defs>
+
+  <!-- Trophy 1: Stars (SSS) -->
+  <g transform="translate(0,0)">
+    <rect width="109" height="109" rx="4.5" fill="#0d1117" stroke="#e1e4e8" stroke-width="0.5"/>
+    <text x="55" y="18" class="title">Stars</text>
+    <!-- Laurel Icon Path -->
+    <path class="laurel" transform="translate(25,25) scale(0.005)" d="M5420 10170 c-641 -65 -1368 -292 -2001 -623 -441 -231 -1169 -754 -1539 -1106 -513 -488 -1111 -1341 -1345 -1916 -219 -538 -458 -1415 -535 -1975 -24 -178 -19 -55 24 532 94 1269 494 2465 1133 3388 471 680 1260 1445 1978 1915 623 408 1419 759 2045 897 104 23 293 42 355 37 13 -1 25 -25 25 -50 0 -26 -2 -49 -5 -50 -3 -1 -73 -12 -135 -24 z m770 0 c-23 -23 -25 -45 -25 -215 0 -170 2 -192 25 -215 23 -23 45 -25 215 -25 170 0 192 2 215 25 23 23 25 45 25 215 0 170 -2 192 -25 215 -23 23 -45 25 -215 25 -170 0 -192 -2 -215 -25 z"/>
+    <!-- Trophy Path -->
+    <path class="trophy_base" transform="translate(35,30) scale(3.5)" d="M12 5V1H4v4H1v5h2v9h10v-9h2V5h-3zM4 2h8v3H4V2zm9 16H3v-7h10v7zM14 6H2v3h12V6z"/>
+    <circle cx="55" cy="45" r="10" class="rank_bg"/>
+    <text x="55" y="50" class="rank">SSS</text>
+    <text x="55" y="85" class="message">World Class Stargazer</text>
+    <text x="55" y="97" class="points">10,000+ pts</text>
+  </g>
+
+  <!-- Trophy 2: Commits (S) -->
+  <g transform="translate(110,0)">
+    <rect width="109" height="109" rx="4.5" fill="#0d1117" stroke="#e1e4e8" stroke-width="0.5"/>
+    <text x="55" y="18" class="title">Commits</text>
+    <path class="laurel" transform="translate(25,25) scale(0.005)" d="M5420 10170 c-641 -65 -1368 -292 -2001 -623 -441 -231 -1169 -754 -1539 -1106 -513 -488 -1111 -1341 -1345 -1916 -219 -538 -458 -1415 -535 -1975 -24 -178 -19 -55 24 532 94 1269 494 2465 1133 3388 471 680 1260 1445 1978 1915 623 408 1419 759 2045 897 104 23 293 42 355 37 13 -1 25 -25 25 -50 0 -26 -2 -49 -5 -50 -3 -1 -73 -12 -135 -24 z m770 0 c-23 -23 -25 -45 -25 -215 0 -170 2 -192 25 -215 23 -23 45 -25 215 -25 170 0 192 2 215 25 23 23 25 45 25 215 0 170 -2 192 -25 215 -23 23 -45 25 -215 25 -170 0 -192 -2 -215 -25 z"/>
+    <path class="trophy_base" transform="translate(35,30) scale(3.5)" d="M12 5V1H4v4H1v5h2v9h10v-9h2V5h-3zM4 2h8v3H4V2zm9 16H3v-7h10v7zM14 6H2v3h12V6z"/>
+    <circle cx="55" cy="45" r="10" class="rank_bg"/>
+    <text x="55" y="50" class="rank">S</text>
+    <text x="55" y="85" class="message">Ultra Committer</text>
+    <text x="55" y="97" class="points">50,000+ pts</text>
+  </g>
+
+  <!-- Trophy 3: Followers (S) -->
+  <g transform="translate(220,0)">
+    <rect width="109" height="109" rx="4.5" fill="#0d1117" stroke="#e1e4e8" stroke-width="0.5"/>
+    <text x="55" y="18" class="title">Followers</text>
+    <path class="laurel" transform="translate(25,25) scale(0.005)" d="M5420 10170 c-641 -65 -1368 -292 -2001 -623 -441 -231 -1169 -754 -1539 -1106 -513 -488 -1111 -1341 -1345 -1916 -219 -538 -458 -1415 -535 -1975 -24 -178 -19 -55 24 532 94 1269 494 2465 1133 3388 471 680 1260 1445 1978 1915 623 408 1419 759 2045 897 104 23 293 42 355 37 13 -1 25 -25 25 -50 0 -26 -2 -49 -5 -50 -3 -1 -73 -12 -135 -24 z m770 0 c-23 -23 -25 -45 -25 -215 0 -170 2 -192 25 -215 23 -23 45 -25 215 -25 170 0 192 2 215 25 23 23 25 45 25 215 0 170 -2 192 -25 215 -23 23 -45 25 -215 25 -170 0 -192 -2 -215 -25 z"/>
+    <path class="trophy_base" transform="translate(35,30) scale(3.5)" d="M12 5V1H4v4H1v5h2v9h10v-9h2V5h-3zM4 2h8v3H4V2zm9 16H3v-7h10v7zM14 6H2v3h12V6z"/>
+    <circle cx="55" cy="45" r="10" class="rank_bg"/>
+    <text x="55" y="50" class="rank">S</text>
+    <text x="55" y="85" class="message">Dynamic Ecosystem</text>
+    <text x="55" y="97" class="points">5,000+ pts</text>
+  </g>
+
+  <!-- Trophy 4: Repositories (A) -->
+  <g transform="translate(330,0)">
+    <rect width="109" height="109" rx="4.5" fill="#0d1117" stroke="#e1e4e8" stroke-width="0.5"/>
+    <text x="55" y="18" class="title">Repositories</text>
+    <path class="laurel" transform="translate(25,25) scale(0.005)" d="M5420 10170 c-641 -65 -1368 -292 -2001 -623 -441 -231 -1169 -754 -1539 -1106 -513 -488 -1111 -1341 -1345 -1916 -219 -538 -458 -1415 -535 -1975 -24 -178 -19 -55 24 532 94 1269 494 2465 1133 3388 471 680 1260 1445 1978 1915 623 408 1419 759 2045 897 104 23 293 42 355 37 13 -1 25 -25 25 -50 0 -26 -2 -49 -5 -50 -3 -1 -73 -12 -135 -24 z m770 0 c-23 -23 -25 -45 -25 -215 0 -170 2 -192 25 -215 23 -23 45 -25 215 -25 170 0 192 2 215 25 23 23 25 45 25 215 0 170 -2 192 -25 215 -23 23 -45 25 -215 25 -170 0 -192 -2 -215 -25 z"/>
+    <path class="trophy_base" transform="translate(35,30) scale(3.5)" d="M12 5V1H4v4H1v5h2v9h10v-9h2V5h-3zM4 2h8v3H4V2zm9 16H3v-7h10v7zM14 6H2v3h12V6z"/>
+    <circle cx="55" cy="45" r="10" class="rank_bg"/>
+    <text x="55" y="50" class="rank">A</text>
+    <text x="55" y="85" class="message">Deep Architect</text>
+    <text x="55" y="97" class="points">500+ pts</text>
+  </g>
+</svg>
