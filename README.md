@@ -74,6 +74,35 @@
 </table>
 <br/>
 
+## 🏹 Dharmic IT Solutions (Tech Services)
+<p align="center">
+  <i>Providing world-class, extremely secure, and scalable IT infrastructure dedicated to Hindu Sangathans, Temples, and Dharmic NGOs.</i>
+</p>
+
+<table align="center" width="100%" bgcolor="#0d1117">
+  <tr>
+    <td width="33%" align="center">
+      <h3>🏛️ Temple ERPs</h3>
+      <p>Custom portals, donation tracking, and verified digital footfall scaling.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🛡️ Cyber Sovereignty</h3>
+      <p>High-grade security audits and data protection for Nationalist organizations.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>📱 Mobile Sangathan</h3>
+      <p>Cross-platform apps (Flutter) to connect millions of volunteers securely.</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="mailto:chaurasiaabhishek847@gmail.com?subject=Dharmic%20IT%20Service%20Inquiry">
+    <img src="https://img.shields.io/badge/📥_Request_IT_Consultation_For_Your_Organization-FF9933?style=for-the-badge&logoColor=101010" alt="Request Consultation" />
+  </a>
+</div>
+<br/>
+
 ## 💻 World-Class Tech Arsenal
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,js,ts,tailwind,css,html,php,mysql,postgres,mongodb,firebase,aws,docker,linux,git,figma&perline=10" />
